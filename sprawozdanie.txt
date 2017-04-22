@@ -1,0 +1,11 @@
+1) Czym są metody abstrakcyjne
+
+Metody abstrakcyjne to takie metody, które nie posiadają implementacji(ani nawet nawiasów klamrowych),
+klasy rozszerzające klase abstrakcyjna muszą stworzyć implementacje dla metod oznaczonych jako
+abstrakcyjne w klasie abstrakcyjnej.
+
+2)Czym są pola statyczne oraz metody statyczne
+
+Słowo "static" - oznacza, że metoda jest statyczna. Z wnętrza metody statycznej Nie możemy odwoływać się do pól
+oraz metod nie zadeklarowanych jako statyczne. Dodatkowo metody i zmienne zadeklarowane jako static,
+związane są z konkretną klasą, a nie jej instancją - obiektem. 
